@@ -6,4 +6,4 @@ applications:
     - route: https://pal-tracker-optimistic-springhare.cfapps.io
     env:
       WELCOME_MESSAGE: Hello Mahi...Pipeline is done in travis.
-      JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
+      JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 1.8.+ } }'
